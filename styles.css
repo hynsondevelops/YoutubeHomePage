@@ -1,0 +1,36 @@
+#navbar
+{
+	height: 50px;
+	width: 905px;
+	display: flex;
+	border: solid 3px;
+	background-color: white;
+}
+
+#searchIcon
+{
+	height: 30px;
+	width: 68px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#search
+{
+	margin: auto;
+	width: 450px;
+	height: 27px;
+	font-size:12pt;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+header
+{
+	  
+}
+
+body
+{
+	background-color: grey;
+}
