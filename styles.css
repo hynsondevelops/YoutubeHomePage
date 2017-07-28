@@ -1,9 +1,8 @@
 #navbar
 {
 	height: 50px;
-	width: 905px;
+	width: 100%;
 	display: flex;
-	border: solid 3px;
 	background-color: white;
 }
 
@@ -18,19 +17,45 @@
 #search
 {
 	margin: auto;
-	width: 450px;
+	width: 550px;
 	height: 27px;
 	font-size:12pt;
 	margin-right: 0px;
 	margin-left: 0px;
 }
 
+#headerRight
+{
+	float: right;
+	margin-left: auto;
+}
+
+#uploadIcon
+{
+	height: 30px;
+	width: 25px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 30px;
+}
+
+#signInIcon
+{
+	height: 28px;
+	width: 53px;
+	margin-top: 11px;
+	margin-bottom: 11px;
+	margin-right: 40px;
+	margin-left: 10px;
+}
+
 header
 {
-	  
+	  padding-top: 0px;
 }
 
 body
 {
+	margin: 0px;
 	background-color: grey;
 }
